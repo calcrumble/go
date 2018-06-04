@@ -1,2 +1,2 @@
 # go
-first GO project
+Go projects
